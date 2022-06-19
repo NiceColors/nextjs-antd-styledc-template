@@ -1,4 +1,4 @@
-# NextJS Antd Styled-Components Boilerplate:
+# 😎NextJS Antd Styled-Components Boilerplate🪄:
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
 
